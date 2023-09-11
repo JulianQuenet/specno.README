@@ -1,10 +1,8 @@
 # SPECNO ASSESSMENT
 
 <h1 align="center">Choices and reasonings</h1>
-<br>
-<h2 align="center">Pages</h2>
-<br>
-**Register page
+
+## Register page
 
 - I went a little away from the design in the figma file in terms of the layout with going from register
 there's no specific reasoning I just liked the look of it. 
