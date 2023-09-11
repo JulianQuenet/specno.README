@@ -5,8 +5,8 @@
 <h2 align="center">Pages</h2>
 <br>
 **Register page
-* I went a little away from the design in the figma file in terms of the layout with going from register -> login
-I opted for a tab bar style layout where you can see your current page as well as the other options available,
+
+- I went a little away from the design in the figma file in terms of the layout with going from register
 there's no specific reasoning I just liked the look of it. 
 - I also added in the confirm password field as it just felt right to have it included, though other than these two things
 I tried to stay as close as possible to the deisgn as possible
