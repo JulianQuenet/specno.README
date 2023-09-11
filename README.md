@@ -4,7 +4,7 @@
 
 ## Register page
 
-- I went a little away from the design in the figma file in terms of the layout with going from register
+- I went a little away from the design in the figma file in terms of the layout with going from register ->log in I went with a tab bar view,
 there's no specific reasoning I just liked the look of it. 
 - I also added in the confirm password field as it just felt right to have it included, though other than these two things
 I tried to stay as close as possible to the deisgn as possible
